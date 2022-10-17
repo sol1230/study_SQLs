@@ -1,10 +1,3 @@
 # study_SQLs
-study SQLs
-끼워놓기 홀수
-홀수 기록
-끼워놓기 홀수
-eunsol
-dasomkim
-두번째 끼워넣기 홀수
-짝수 기록
-홀수 기록
+### where_in_subquery : 서브쿼리를 IN 이용해 활용
+- [query kimdasom ](./dasomkim/)
