@@ -13,4 +13,4 @@
 - [Employees_Order_totals kimdasom](./dasomkim/w3schools/Employees_Order_total.sql)
 
 ### Categories_Products_totals
--[Categories_Products_totals lee_eunsol](./Lee_Eunsol/w3schools/Categories_Products_totals.sql)
+- [Categories_Products_totals lee_eunsol](./Lee_Eunsol/w3schools/Categories_Products_totals.sql)
