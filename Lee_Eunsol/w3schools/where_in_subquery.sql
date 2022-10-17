@@ -1,4 +1,4 @@
--- 서브쿼리 활용
+-- 서브쿼리 in 활용
 SELECT * 
 FROM Customers
 WHERE Country IN (SELECT Country
