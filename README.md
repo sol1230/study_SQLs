@@ -8,3 +8,5 @@ eunsol
 >>>>>>> 23014b67345de9b5436376648a9cf533610d3923
 eunsol
 dasomkim
+
+짝수 기록
