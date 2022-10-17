@@ -3,3 +3,4 @@
 
 - [query lee_eunsol](./Lee_Eunsol/w3schools/where_in_subquery.sql)
 - [query kimdasom ](./dasomkim/w3schools/where_in_subquery.sql)
+- [query kimdasom ](./dasomkim/w3schools/where_and_subquery.sql)
