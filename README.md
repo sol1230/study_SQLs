@@ -9,4 +9,4 @@
 - [query lee_eunsol](./Lee_Eunsol/w3schools/where_and_subquery.sql)
 
 ### Employees_Order_totals
-- [query lee_eunsol](./Lee_Eunsol/w3schools/Employees_Order_totals.sql)
+- [Employees_Order_totals lee_eunsol](./Lee_Eunsol/w3schools/Employees_Order_totals.sql)
