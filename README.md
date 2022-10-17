@@ -1,10 +1,7 @@
 # study_SQLs
 study SQLs
-<<<<<<< HEAD
+eunsol
+dasomkim
 
-dasomkim
-=======
-eunsol
->>>>>>> 23014b67345de9b5436376648a9cf533610d3923
-eunsol
-dasomkim
+
+홀수 기록
