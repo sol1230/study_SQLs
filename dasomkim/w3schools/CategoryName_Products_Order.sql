@@ -9,4 +9,4 @@ WHERE CategoryID IN (SELECT CategoryID
 FROM Categories
 WHERE CategoryName IN ('Dairy Products','Seafood'))
 AND (Price BETWEEN 10.00 AND 50.00)));
---379개
+--OrderID:10248 개수:379개
