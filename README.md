@@ -26,3 +26,4 @@
 
 ### Categories_Products_Count.sql
 - [Categories_Products_Count lee_eunsol](/Lee_Eunsol/w3schools/Categories_Products_Counts.sql)
+- [Categories_Products_Count kimdasom](./dasomkim/w3schools/Categories_Products_Count.sql)
