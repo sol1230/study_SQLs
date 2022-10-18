@@ -1,5 +1,5 @@
 -- categories 별로 구성된 제품 갯수, 가격평균, 최고값, 최저값 각각 표시 
-SELECT COUNT(ProductID), CategoryID, AVG(Price), MIN(Price), MAX(Price)
+SELECT COUNT(*), CategoryID, AVG(Price), MIN(Price), MAX(Price)
 FROM Products
 GROUP BY CategoryID;
 
