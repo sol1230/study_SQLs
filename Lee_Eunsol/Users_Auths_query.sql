@@ -1,3 +1,5 @@
+-- Tables 생성 --
+
 CREATE TABLE AUTH_NAMES
 (
   UNIQUE_ID VARCHAR(200) NOT NULL COMMENT '접근권한 대표값',
@@ -30,6 +32,8 @@ ALTER TABLE AUTHS
     FOREIGN KEY (UNIQUE_ID_AUTH_NAMES)
     REFERENCES AUTH_NAMES (UNIQUE_ID);
     
+-- 권한 생성 --
+
 INSERT INTO auth_names (AUTH_NAME, UNIQUE_ID)
 VALUES ('GUEST', 'B1');
 
@@ -38,6 +42,8 @@ VALUES ('ADMIN', 'B2');
 
 INSERT INTO auth_names (AUTH_NAME, UNIQUE_ID)
 VALUES ('MANAGER', 'B3');
+
+-- 회원가입 --
 
 INSERT INTO users (UNIQUE_ID, NAME_,EMAIL, JOB)
 VALUES ('U1', 'Paul', 'paul01@gmail.com', 'IT Billing');
@@ -50,6 +56,8 @@ VALUES ('U3', 'Teddy', 'norway@iotm.com', 'IT Billing');
 
 INSERT INTO users (UNIQUE_ID, NAME_,EMAIL, JOB)
 VALUES ('U4', 'Paul', 'paul_p@naver.com', 'Developer');
+
+-- 권한 부여 --
 
 INSERT INTO auths (UNIQUE_ID_USERS, UNIQUE_ID_AUTH_NAMES)
 VALUES ('U1', 'B1');
@@ -75,6 +83,8 @@ VALUES ('U4', 'B2');
 INSERT INTO auths (UNIQUE_ID_USERS, UNIQUE_ID_AUTH_NAMES)
 VALUES ('U1', 'B1');
 
+-- 회원 삭제 --
+
 DELETE FROM users
 WHERE UNIQUE_ID = 'U2';
 
@@ -87,6 +97,7 @@ WHERE UNIQUE_ID_USERS = 'U2';
 DELETE FROM auths
 WHERE UNIQUE_ID_USERS = 'U4';
 
+-- 실행 --
 
 SELECT *
 FROM auth_names;
