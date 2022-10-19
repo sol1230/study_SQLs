@@ -2,7 +2,7 @@
 SELECT COUNT(ProductID),CategoryID
 FROM Products
 GROUP BY CategoryID
-HAVING COUNT(CategoryID)>= 10;
+HAVING COUNT(ProductID)>= 10;
 --COUNT(ProductID)	CategoryID
         12	            1
         12	            2
