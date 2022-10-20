@@ -43,3 +43,5 @@
 
 ### Products_Quantity.sql
 - [Products_Quantity.sql lee_eunsol](/Lee_Eunsol/w3schools/Products_Quantity.sql)
+- [Products_Quantity kimdasom](./dasomkim/w3schools/Products_Quantity.sql)
+
