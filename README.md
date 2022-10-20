@@ -45,3 +45,5 @@
 - [Products_Quantity.sql lee_eunsol](/Lee_Eunsol/w3schools/Products_Quantity.sql)
 - [Products_Quantity kimdasom](./dasomkim/w3schools/Products_Quantity.sql)
 
+### Users_Auth_Names.sql
+- [Users_Auth_Names kimdasom](./dasomkim/w3schools/Users_Auth_names.sql)
