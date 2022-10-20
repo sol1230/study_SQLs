@@ -34,5 +34,8 @@
 - [Products_HAVING kimdasom](./dasomkim/w3schools/Products_HAVING.sql)
 
 ### Users_Auths_query.sql
-- [Users_Auths_query lee_eunsol](/Lee_Eunsol/Users_Auths_query.sql)
+- [Users_Auths_query lee_eunsol](/Lee_Eunsol/w3schools/Users_Auths_query.sql)
 - [User_Auths_query kimdasom](./dasomkim/w3schools/User_Auths_query.sql)
+
+### Products_CategoryID.sql
+- [Products_CategoryID lee_eunsol](/Lee_Eunsol/w3schools/Products_CategoryID.sql)
